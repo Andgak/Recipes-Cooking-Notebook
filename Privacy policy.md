@@ -22,4 +22,3 @@ Advertisers and ad networks use tracking technologies to collect information abo
 <h3>Changes</h3>
 
 If we make significant changes to our privacy policy, we will post the revised privacy policy on this page.
-
