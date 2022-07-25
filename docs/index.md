@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+### The Recipes: Cooking Notebook privacy policy.
 
-You can use the [editor on GitHub](https://github.com/Andgak/Recipes-Cooking-Notebook/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+This privacy policy explains what information we collect, how we use it, how other companies may use it, and tracking the technologies used to collect the information.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Information We Collect
 
-### Markdown
+We respect your privacy and do not collect any information about you and your device. The program does not have access to your personal data and any other data of your device.
+We do not collect, share or store personal information. All information provided by you is used locally on the device and solely to ensure the implementation of functionality.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Information received from you directly.
 
-```markdown
-Syntax highlighted code block
+By sending us a recipe you agree that the information provided will be published in the application "Recipes: Cooking notebook" in the section with user recipes. You also agree that your name and authorship received in the e-mail message will be indicated in the prescription card. This information will be published and available to all users of the application.
 
-# Header 1
-## Header 2
-### Header 3
+### Links to Other Sites
 
-- Bulleted
-- List
+The application may contain links to other sites that we do not control. If you follow a link to a third party site, this privacy policy does not apply to the privacy practices of that website. Read the privacy policies of other websites. We are not responsible for third-party sites.
 
-1. Numbered
-2. List
+### Use of Your Information by Other Companies
 
-**Bold** and _Italic_ and `Code` text
+Advertisers and ad networks use tracking technologies to collect information about mobile devices and their online activities (such as web pages visited and search queries), as well as their general geographic location, and use this information to display targeted advertising to users. At the moment, the program for Android has built-in advertising from AdMob.The privacy policy of this company can be found at: [google.com](https://www.google.com/intl/ru/policies/privacy/)
 
-[Link](url) and ![Image](src)
-```
+### Changes
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Andgak/Recipes-Cooking-Notebook/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If we make significant changes to our privacy policy, we will post the revised privacy policy on this page.
