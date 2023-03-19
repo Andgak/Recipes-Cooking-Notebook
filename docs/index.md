@@ -17,7 +17,7 @@ The application may contain links to other sites that we do not control. If you 
 
 ### Use of Your Information by Other Companies
 
-Advertisers and ad networks use tracking technologies to collect information about mobile devices and their online activities (such as web pages visited and search queries), as well as their general geographic location, and use this information to display targeted advertising to users. At the moment, the program for Android has built-in advertising from AdMob, Unity Ads.The privacy policy of this company can be found at: [google.com](https://www.google.com/intl/ru/policies/privacy/), [unity.com](https://unity.com/legal/privacy-policy)
+Advertisers and ad networks use tracking technologies to collect information about mobile devices and their online activities (such as web pages visited and search queries), as well as their general geographic location, and use this information to display targeted advertising to users. At the moment, the program for Android has built-in advertising from AdMob, Unity Ads. The privacy policy of this company can be found at: [google.com](https://www.google.com/intl/ru/policies/privacy/), [unity.com](https://unity.com/legal/privacy-policy)
 
 ### Changes
 
